@@ -1,28 +1,28 @@
 {
   "department": [
+    {       
+      "DepartmentID": 1,       
+      "DepartmentName": "IT"     
+    },     
     {
-      "DepartmentID": 1,
-      "DepartmentName": "IT"
-    },
-    {
-      "DepartmentID": 2,
-      "DepartmentName": "finance"
-    },
-    {
-      "DepartmentID": 3,
-      "DepartmentName": "support"
+      "DepartmentID": 2,       
+      "DepartmentName": "finance"     
+    },     
+    {       
+      "DepartmentID": 3,       
+      "DepartmentName": "support"     
     }
   ],
-  "employee": [
+  "comments": [
     {
       "id": 1,
-      "name": "fateme",
-     
+      "body": "some comment",
+      "postId": 1
     },
     {
       "id": 2,
-      "name": "faeze",
-     
+      "body": "some comment",
+      "postId": 1
     }
   ],
   "profile": {
