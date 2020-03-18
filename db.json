@@ -1,28 +1,28 @@
 {
-  "posts": [
+  "department": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "DepartmentID": 1,
+      "DepartmentName": "IT"
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "DepartmentID": 2,
+      "DepartmentName": "finance"
     },
     {
-      "id": 3,
-      "title": "Post 3"
+      "DepartmentID": 3,
+      "DepartmentName": "support"
     }
   ],
-  "comments": [
+  "employee": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "fateme",
+     
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "name": "faeze",
+     
     }
   ],
   "profile": {
