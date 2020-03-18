@@ -1,16 +1,16 @@
 {
-  "department": [
-    {       
-      "DepartmentID": 1,       
-      "DepartmentName": "IT"     
-    },     
+  "posts": [
     {
-      "DepartmentID": 2,       
-      "DepartmentName": "finance"     
-    },     
-    {       
-      "DepartmentID": 3,       
-      "DepartmentName": "support"     
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
     }
   ],
   "comments": [
