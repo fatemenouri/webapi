@@ -10,7 +10,15 @@
     },
     {
       "DepartmentID": 3,
-      "DepartmentName": "Post 3"
+      "DepartmentName": "Post 5"
+    },
+    {
+      "DepartmentID": 4,
+      "DepartmentName": "Post 4"
+    },
+    {
+      "DepartmentID": 5,
+      "DepartmentName": "Post 5"
     }
   ],
   "comments": [
